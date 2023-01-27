@@ -25,7 +25,7 @@ Create a Tenzi Game using React JS.
 
 ### Links
 
-- Live Site URL: [lidijaaltenzigame.netlify.app/](lidijaaltenzigame.netlify.app)
+- Live Site URL: [lidijaaltenzigame.netlify.app/](lidijaaltenzigame.netlify.app/)
 
 
 ## My process
