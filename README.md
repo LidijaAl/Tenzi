@@ -16,7 +16,7 @@ This is a solution to the Tenzi Game project on Scrimba.
 
 ### The challenge
 
-Create a Tenzi Game using React JS. 
+Create a Tenzi Game using ReactJS. 
 
 ### Screenshot
 
@@ -32,6 +32,4 @@ Create a Tenzi Game using React JS.
 
 ### Built with
 
-- HTML
-- CSS
-- React JS
+- ReactJS
